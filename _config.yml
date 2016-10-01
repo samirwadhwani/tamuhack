@@ -18,10 +18,10 @@ description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/tamuhack" # the subpath of your site
 url: "https://steveortiz.github.io"
-email: steve@ortizaggies.com
-github_username:  steveortiz
-linkedin_username: trustycoder
-twitter_username: trustycoder
+email: samir@tamu.edu
+github_username:  samirwadhwani
+linkedin_username: samirw983
+twitter_username: samirw983
 
 # Build settings
 markdown: kramdown
